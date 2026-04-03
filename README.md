@@ -2,7 +2,9 @@
 Sales Data Analysis using SQL with advanced queries and business insights
 
 # Project Overview
-This project focuses on analyzing sales data using SQL to extract meaningful business insights. The analysis includes revenue trends, customer behavior, and product performance.
+This project focuses on analyzing sales data using SQL to extract meaningful business insights. The dataset contains information about orders, customers, products, and regions.
+
+The objective of this project is to perform data analysis using SQL queries and answer real-world business questions.
 
 # Tools Used
 - MySQL
